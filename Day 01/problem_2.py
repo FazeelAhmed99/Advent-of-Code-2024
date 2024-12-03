@@ -11,7 +11,7 @@ def calculate_similarity_score(left, right):
     return sum(score_list)
 
 
-filename = "test_case_1"
+filename = "test_case"
 
 left = []
 right = []

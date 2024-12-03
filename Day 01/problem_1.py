@@ -14,7 +14,7 @@ def calculate_total_distance(left, right):
     return sum(distance_list)
 
 
-filename = "test_case_1"
+filename = "test_case"
 
 left = []
 right = []
